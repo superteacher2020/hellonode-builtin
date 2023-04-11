@@ -1,0 +1,8 @@
+# fly.toml file generated for spring-moon-6228 on 2023-04-11T15:52:31+08:00
+
+app = "spring-moon-6228"
+primary_region = "sin"
+
+[env]
+  PORT = "8080"
+  
